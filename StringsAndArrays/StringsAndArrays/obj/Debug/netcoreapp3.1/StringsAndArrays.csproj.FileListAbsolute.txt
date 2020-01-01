@@ -1,0 +1,11 @@
+D:\01 Scoala informala de IT\02 DOT NET\Teme\String & Arrays\StringsAndArrays\StringsAndArrays\obj\Debug\netcoreapp3.1\StringsAndArrays.csprojAssemblyReference.cache
+D:\01 Scoala informala de IT\02 DOT NET\Teme\String & Arrays\StringsAndArrays\StringsAndArrays\obj\Debug\netcoreapp3.1\StringsAndArrays.AssemblyInfoInputs.cache
+D:\01 Scoala informala de IT\02 DOT NET\Teme\String & Arrays\StringsAndArrays\StringsAndArrays\obj\Debug\netcoreapp3.1\StringsAndArrays.AssemblyInfo.cs
+D:\01 Scoala informala de IT\02 DOT NET\Teme\String & Arrays\StringsAndArrays\StringsAndArrays\bin\Debug\netcoreapp3.1\StringsAndArrays.exe
+D:\01 Scoala informala de IT\02 DOT NET\Teme\String & Arrays\StringsAndArrays\StringsAndArrays\bin\Debug\netcoreapp3.1\StringsAndArrays.deps.json
+D:\01 Scoala informala de IT\02 DOT NET\Teme\String & Arrays\StringsAndArrays\StringsAndArrays\bin\Debug\netcoreapp3.1\StringsAndArrays.runtimeconfig.json
+D:\01 Scoala informala de IT\02 DOT NET\Teme\String & Arrays\StringsAndArrays\StringsAndArrays\bin\Debug\netcoreapp3.1\StringsAndArrays.runtimeconfig.dev.json
+D:\01 Scoala informala de IT\02 DOT NET\Teme\String & Arrays\StringsAndArrays\StringsAndArrays\bin\Debug\netcoreapp3.1\StringsAndArrays.dll
+D:\01 Scoala informala de IT\02 DOT NET\Teme\String & Arrays\StringsAndArrays\StringsAndArrays\bin\Debug\netcoreapp3.1\StringsAndArrays.pdb
+D:\01 Scoala informala de IT\02 DOT NET\Teme\String & Arrays\StringsAndArrays\StringsAndArrays\obj\Debug\netcoreapp3.1\StringsAndArrays.dll
+D:\01 Scoala informala de IT\02 DOT NET\Teme\String & Arrays\StringsAndArrays\StringsAndArrays\obj\Debug\netcoreapp3.1\StringsAndArrays.pdb
